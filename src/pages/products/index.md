@@ -3,7 +3,7 @@ heading: "Great CMS "
 path: /products
 templateKey: product-page
 title: "Testing Netlify CMS "
-image: /img/jumbotron.jpg
+image: /img/wallpaperflare.com_wallpaper-1-.jpg
 description: VLabs is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
