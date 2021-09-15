@@ -1,8 +1,8 @@
 ---
-heading: Great CMS with a conscience
+heading: "Great CMS "
 path: /products
 templateKey: product-page
-title: Testing Netlify CMS for VLab
+title: "Testing Netlify CMS "
 image: /img/jumbotron.jpg
 description: VLabs is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
